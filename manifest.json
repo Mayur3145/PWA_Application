@@ -4,7 +4,7 @@
   "description": "Shopper",
   "orientation": "portrait",
 
-  "start_url": "https://github.com/Mayur3145/PWA_Application/",
+  "start_url": "https://mayur3145.github.io/PWA_Application/",
   "display": "standalone",
   "background_color": "#fafafa",
   "theme_color": "#fafafa",

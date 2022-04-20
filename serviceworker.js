@@ -4,10 +4,10 @@ self.addEventListener('install' , (event)=>{
     caches.open("static")
     .then((Cache)=>{
         Cache.addAll([
-           'https://github.com/Mayur3145/PWA_Application/',
-           'https://github.com/Mayur3145/PWA_Application/css/index.css',
-           'https://github.com/Mayur3145/PWA_Application/index.html',
-	   'https://github.com/Mayur3145/PWA_Application/login.html'
+           'https://mayur3145.github.io/PWA_Application/',
+           'https://mayur3145.github.io/PWA_Application/css/index.css',
+           'https://mayur3145.github.io/PWA_Application/index.html',
+	   'https://mayur3145.github.io/PWA_Application/login.html'
 		
  
         ]).catch((error)=>{
